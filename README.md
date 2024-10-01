@@ -1,6 +1,8 @@
 # Solana Steel Framework
 
-
+## Contact info
+Telegram: dwlee918
+X: derricklee918
 
 ## Getting started
 
@@ -15,7 +17,7 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/derricklee9181/solana-steel-framework.git
+git remote add origin https://github.com/solguru310/solana-steel-framework.git
 git branch -M main
 git push -uf origin main
 ```
